@@ -13,3 +13,5 @@ The code example above using the require statement is CommonJS. CommonJS is anot
 
 When JavaScript was first created, it didn’t have a module system. Because JavaScript had no module system, developers created their own module systems on top of the language.
 */
+
+// fonte: https://www.freecodecamp.org/news/javascript-modules-beginners-guide/
